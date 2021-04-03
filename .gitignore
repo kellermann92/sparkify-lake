@@ -1,0 +1,7 @@
+*.cfg
+*.ipynb
+*notes
+workspace/*
+lake.png
+*.kra
+*~
