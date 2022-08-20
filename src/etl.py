@@ -35,8 +35,8 @@ def main():
     # output = 's3a://mkt-sparkify/'
 
     # You can use the sample dataset in this repository to test the application:
-    my_input = 'input/'
-    my_output = 'output/'
+    my_input = '../input/'
+    my_output = '../output/'
     process_song_data(session, my_input, my_output)
     process_log_data(session, my_input, my_output)
 
