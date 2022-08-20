@@ -8,3 +8,6 @@ lake.png
 src/nodes/log_data.py
 src/nodes/__pycache__/*
 .vscode/*
+!output/.keep
+*.parquet.crc
+*.parquet
