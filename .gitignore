@@ -6,6 +6,7 @@ lake.png
 *.kra
 *~
 src/nodes/__pycache__/*
+src/session/__pycache__/*
 .vscode/*
 !output/.keep
 *.parquet.crc
