@@ -75,9 +75,9 @@ pip install pyspark==2.4.3
 > 
 ### Installing
 
-To execute this project you only need to download this repository, activate the virtual environment with `Python 3.6.3` and `PySpark 2.4.3` in it and run the following command:
+To execute this project you only need to download this repository, activate the virtual environment with `Python 3.6.3` and `PySpark 2.4.3` in it and run the following command in the root of this repository:
 ```
-python etl.py
+python ./src/etl.py
 ```
 > * You can run this code in test mode without accessing the `S3`bucket. To do this you just have to uncomment the lines `280` and `281` and comment the lines `277` and `278` in `etl.py`.
 > * The test files are in `input` and `output` subirectories in this repository.
