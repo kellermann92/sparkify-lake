@@ -5,3 +5,6 @@ workspace/*
 lake.png
 *.kra
 *~
+src/nodes/log_data.py
+src/nodes/__pycache__/*
+.vscode/*
